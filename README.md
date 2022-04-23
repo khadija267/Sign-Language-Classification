@@ -5,6 +5,6 @@ This project is part of my master's degree, you can get the full text on Researc
 shorturl.at/dAW26
 
 <p float="center">
-  <img src="https://github.com/khadija267/Sign-Language-Classification/blob/main/images/abstract.png?raw=true"  /> 
+  <img src="https://github.com/khadija267/Sign-Language-Classification/blob/main/abstract.png?raw=true"  /> 
 
 </p>
